@@ -27,6 +27,9 @@ The algorithm was tested on standard benchmark instances ranging from 40 to 80 c
 
 ## Authors
 * **Singh Sahiljit** (Matr. 740552) 
-* **Lublanis Matteo** (Matr. 736418) 
+* **Lublanis Matteo** (Matr. 736418)
+
+## Note
+* If you wish to se the actual code developed using JAVA, kindly write me at sahiljitsingh03@gmail.com
 
 *This project was developed for the **Optimization Algorithms** course (Academic Year 2025/2026) at the **University of Brescia**, Department of Information Engineering.*
